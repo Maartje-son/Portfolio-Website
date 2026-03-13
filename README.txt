@@ -1,5 +1,5 @@
 Maartje Sonneveld Portfolio
-www.maartjesonneveld.nl
+https://maartje-son.github.io/Maartje.github.io/
 
 
 Welcome to my portfolio website. Here you'll find my work and projects spanning industrial 
